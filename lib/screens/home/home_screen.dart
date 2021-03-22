@@ -4,7 +4,7 @@ import 'package:seventh_main/bloc/docotor_appoitment/doctor_appointment_bloc.dar
 import 'package:seventh_main/bloc/doctors_bloc/doctors_bloc.dart';
 import 'package:seventh_main/bloc/hospital_appointment/hospital_appointment_bloc.dart';
 import 'package:seventh_main/bloc/hospital_bloc/hospitals_bloc.dart';
-import 'package:seventh_main/dependencyinjection/get_it.dart';
+import 'package:seventh_main/di/get_it.dart';
 import 'package:seventh_main/screens/doctor/doctor_home.dart';
 import 'package:seventh_main/screens/drawer/navigation_drawer.dart';
 import 'package:seventh_main/screens/home/carousel_slider.dart';

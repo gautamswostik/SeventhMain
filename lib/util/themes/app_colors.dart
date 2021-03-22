@@ -2,6 +2,10 @@ import 'package:flutter/material.dart';
 
 class AppColors {
   const AppColors._();
+  
+  static const authScreenMain = Color(0xffde3129);
+  static const authButtonMain = Color(0xff2469b4);
+  static const authregister = Color(0xfffeb801);
 
   static const Color vulcan = Color(0xFF141221);
   static const Color royalBlue = Color(0xFF604FEF);

@@ -1,7 +1,6 @@
 import 'dart:convert';
 import 'package:dropdownfield/dropdownfield.dart';
 import 'package:eva_icons_flutter/eva_icons_flutter.dart';
-import 'package:eva_icons_flutter/icon_data.dart';
 import 'package:form_field_validator/form_field_validator.dart';
 import 'package:seventh_main/data/models/doctor_appointment_model/doc_appointment.dart';
 import 'package:flutter/material.dart';
@@ -206,7 +205,7 @@ class _DocAppointmentState extends State<DocAppointment> {
                       ),
                       5.verticalSpace,
                       Text(
-                        'Are you sure? you won\'t be able to \ndelere or edit this again',
+                        'Are you sure? you won\'t be able to \ndelete or edit this again',
                         style: textStyle,
                         textAlign: TextAlign.end,
                       ),

@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:seventh_main/screens/authenticatonscreen/login.dart';
 import 'package:seventh_main/screens/home/home_screen.dart';
 import 'package:seventh_main/util/screenutil/screenutil.dart';
 import 'package:seventh_main/util/themes/app_colors.dart';
@@ -18,6 +19,7 @@ class SeventhApp extends StatelessWidget {
           color: AppColors.royalBlue,
         ),
       ),
+      // home: LoginScreen(),
       home: HomeScreen(),
     );
   }

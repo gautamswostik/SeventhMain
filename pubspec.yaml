@@ -37,6 +37,7 @@ dependencies:
   google_fonts: ^1.1.1
   http: ^0.12.2
   json_annotation: ^3.1.0
+  logger: ^0.9.4
   mailer: ^3.2.1
 
 dev_dependencies:
